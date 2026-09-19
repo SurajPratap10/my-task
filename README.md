@@ -135,8 +135,3 @@ src/lib/                    # filter, llm, schemas, sourcing
 | `npm run build` | Production build |
 | `npm run start` | Run production server |
 | `npm run lint` | ESLint |
-
-## Author notes
-
-- **Loom walkthrough:** Screen + voice; demonstrate search → at least one refinement → error/retry (e.g. network offline) → freeze.
-- **Do not** commit API keys or `.env.local`.

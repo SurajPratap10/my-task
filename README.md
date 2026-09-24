@@ -63,7 +63,7 @@ Session state lives in the browser only. Refresh starts a new session.
 ## Architecture
 
 ```
-Free-text brief
+  Free-text brief
       ↓
   LLM (parse)  →  filters + rubric  [Zod validated]
       ↓
